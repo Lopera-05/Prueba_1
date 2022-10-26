@@ -12,5 +12,6 @@
         <label for="">Tiempo</label><input type="text" name="tiempo">
         <input type="submit" name="enviar" value="enviar">
     </form>
+    
 </body>
 </html>
