@@ -10,7 +10,6 @@ $v_t_posters = $n_posters * $v_posters;
 $v_t_tarjetas = $n_tarjetas * $v_tarjetas;
 $valor_t = $v_t_volantes + $v_t_posters + $v_t_tarjetas;
 
-
 echo "El valor total de volantes es: ".$v_t_volantes;
 echo "<br>";
 echo "El valor total de posters es: ".$v_t_posters;
