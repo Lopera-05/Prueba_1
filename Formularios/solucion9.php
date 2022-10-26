@@ -11,17 +11,10 @@ $res3 = $n3 * $por3;
 $suma = $res1 + $res2 + $res3;
 
 if ($suma>=4.0) {
-    echo "aprobado";
+    echo $suma." "."aprobado";
 } else {
-    echo "desaprobado";
+    echo $suma." "."desaprobado";
 }
-
-
-
-
-
-
-
 
 ?>
 

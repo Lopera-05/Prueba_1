@@ -8,8 +8,8 @@
 </head>
 <body>
 <form action="solucion8.php" method="post">
+        <label for="">Sexo</label><select name="sexo" id=""><option value="hombre">M</option> <option value="mujer">F</option></select>
         <label for="">Edad</label><input type="text" name="edad">
-        <label for="">Sexo</label><input type="text" name="sexo">
         <input type="submit" name="enviar" value="enviar">
     </form>
 </body>

@@ -5,8 +5,8 @@ $des = $precio * $porc;
 $subdes = $precio - $des;
 
 if ($precio>=20000) {
-    echo "con el 20% pague".$subdes;
+    echo "con el 20% pague".$subdes." "."pesos";
 } else {
-    echo "sin descuento valor a pagar".$precio;
+    echo "sin descuento valor a pagar"." ".$precio." "." pesos";
 }
 ?>
