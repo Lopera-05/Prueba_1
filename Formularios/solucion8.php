@@ -8,7 +8,7 @@ if($sexo=="hombre" or $sexo=="m"){
     }else{
         echo "No se puede jubilar";
     }
-}elseif($sexo=="mujer" or $sexo=="f"){
+}elseif($sexo=="mujer" or $sexo=="f" or $sexo=="F"){
     if($edad>=54){
         echo "Se puede jubilar";
     }else{
