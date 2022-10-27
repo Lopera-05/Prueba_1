@@ -18,4 +18,5 @@ echo "El valor total de tarjetas es: ".$v_t_posters;
 echo "<br>";
 echo "<br>";
 echo "El valor total es: ".$valor_t;
+
 ?>

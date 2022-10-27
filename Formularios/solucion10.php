@@ -9,4 +9,5 @@ if ($precio>=20000) {
 } else {
     echo "sin descuento valor a pagar"." ".$precio." "." pesos";
 }
+
 ?>

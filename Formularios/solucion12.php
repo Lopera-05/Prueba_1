@@ -15,11 +15,4 @@ if ($interes < 500) {
     echo "Total de capital mas intereses".$sub_opera;
 }
 
-
-
-
-
-
-
-
 ?>

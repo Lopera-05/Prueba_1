@@ -17,4 +17,5 @@ if ($hermano1 >= $hermano2) {
     echo "Y la edad del hermano mayor es: ".$hermano2;
 }
 
+
 ?>
