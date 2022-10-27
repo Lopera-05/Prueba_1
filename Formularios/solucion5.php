@@ -2,7 +2,6 @@
 $hermano1 = $_POST ['h1'];
 $hermano2 = $_POST ['h2'];
 
-
 if ($hermano1 >= $hermano2) {
     
     $resta_hermanos = $hermano1 - $hermano2;
